@@ -1,0 +1,335 @@
+{
+    "story": {
+      "updated-at": 1681643219599,
+      "seo": {
+        "meta-title": "এই গরমে বাঘও কাহিল",
+        "meta-description": "বৈশাখের খরতাপে পুড়ছে দেশ, অতিষ্ঠ প্রাণীকূলও। প্রচণ্ড গরমে স্বস্তি পেতে খাঁচার ভেতরেরর চৌবাচ্চার পানিতে গা ভেজাচ্ছে মিরপুরের জাতীয় চিড়িয়াখানার রয়েল বেঙ্গল টাইগার।",
+        "meta-keywords": ["বাঘ", "বৈশাখ", "তীব্র গরম"],
+        "claim-reviews": { "story": null }
+      },
+      "assignee-id": 1658062,
+      "author-name": "বিডিনিউজ টোয়েন্টিফোর ডটকম",
+      "tags": [
+        {
+          "id": 4745878,
+          "name": "বৈশাখ",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "বৈশাখ",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 4750724,
+          "name": "বাঘ",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "বাঘ",
+          "tag-type": "Tag"
+        },
+        {
+          "id": 5919074,
+          "name": "তীব্র গরম",
+          "meta-description": null,
+          "meta-title": null,
+          "slug": "তীব্র-গরম",
+          "tag-type": "Tag"
+        }
+      ],
+      "headline": "এই গরমে বাঘও কাহিল",
+      "storyline-id": null,
+      "votes": {},
+      "story-content-id": "cb6bd8db-8080-44d3-8746-1baff76da798",
+      "slug": "media_bn/image/rebvrgw8bq",
+      "last-published-at": 1681643221160,
+      "public-identifier": null,
+      "subheadline": "বৈশাখের খরতাপে পুড়ছে দেশ, অতিষ্ঠ প্রাণীকূলও। প্রচণ্ড গরমে স্বস্তি পেতে খাঁচার ভেতরেরর চৌবাচ্চার পানিতে গা ভেজাচ্ছে মিরপুরের জাতীয় চিড়িয়াখানার রয়েল বেঙ্গল টাইগার।",
+      "alternative": {},
+      "sections": [
+        {
+          "domain-slug": null,
+          "slug": "image",
+          "name": "ছবি",
+          "section-url": "https://bangla.bdnews24.com/media_bn/image",
+          "id": 39239,
+          "parent-id": 39238,
+          "display-name": "ছবি",
+          "collection": {
+            "slug": "image-media_bn",
+            "name": "ছবি (মিডিয়া)",
+            "id": 104973
+          },
+          "data": null
+        }
+      ],
+      "read-time": 0,
+      "access-level-value": null,
+      "content-created-at": 1681642375631,
+      "owner-name": "আসিফ মাহমুদ অভি",
+      "custom-slug": null,
+      "push-notification": "বৈশাখের খরতাপে পুড়ছে দেশ, অতিষ্ঠ প্রাণীকূলও। প্রচণ্ড গরমে স্বস্তি পেতে খাঁচার ভেতরেরর চৌবাচ্চার পানিতে গা ভেজাচ্ছে মিরপুরের জাতীয় চিড়িয়াখানার রয়েল বেঙ্গল টাইগার।",
+      "publisher-id": 2634,
+      "hero-image-metadata": {
+        "width": 1024,
+        "height": 576,
+        "mime-type": "image/jpeg",
+        "file-size": 146108,
+        "file-name": "bengal-tiger-dhaka-zoo-160423-008.jpg"
+      },
+      "comments": null,
+      "word-count": 0,
+      "entities": {},
+      "published-at": 1681643221160,
+      "breaking-news-linked-story-id": null,
+      "storyline-title": null,
+      "summary": null,
+      "push-notification-title": "এই গরমে বাঘও কাহিল",
+      "external-id": null,
+      "canonical-url": null,
+      "hero-image-hyperlink": null,
+      "autotags": [],
+      "linked-entities": [],
+      "status": "published",
+      "hero-image-attribution": "asif mahmud ove",
+      "bullet-type": "123",
+      "id": "cb6bd8db-8080-44d3-8746-1baff76da798",
+      "hero-image-s3-key": "bdnews24/2023-04/4dc45dae-2412-4b28-aba5-4aecb9e9100c/bengal_tiger_dhaka_zoo_160423_008.jpg",
+      "contributors": null,
+      "associated-series-collection-ids": [],
+      "cards": [
+        {
+          "story-elements": [
+            {
+              "description": "",
+              "page-url": "/story/cb6bd8db-8080-44d3-8746-1baff76da798/element/ab653cad-a597-4504-a04c-8fbc0c5244d4",
+              "type": "composite",
+              "family-id": "24f45743-627a-439c-aebf-27959f24e40e",
+              "story-elements": [
+                {
+                  "description": "",
+                  "image-metadata": {
+                    "width": 1024,
+                    "height": 576,
+                    "mime-type": "image/jpeg",
+                    "file-size": 198208,
+                    "file-name": "bengal-tiger-dhaka-zoo-160423-001.jpg"
+                  },
+                  "type": "image",
+                  "family-id": "dd2e05af-97ca-421b-ab80-a5204cbaa4a5",
+                  "image-attribution": "<div class=\"paragraphs\"><p></p></div>",
+                  "title": "<div class=\"paragraphs\"><p>বাংলাদেশ জাতীয় চিড়িয়াখানার খাঁচার উন্মুক্ত জায়গায় রোববার সকালে ঘুরে বেড়াচ্ছে রয়েল বেঙ্গল টাইগারটি। ছবি: আসিফ মাহমুদ অভি</p></div>",
+                  "id": "83889966-510b-4833-a617-4a0062c2445b",
+                  "hyperlink": null,
+                  "image-s3-key": "bdnews24/2023-04/65cb08ba-b0d3-4341-9eba-7f0de691ec4f/bengal_tiger_dhaka_zoo_160423_001.jpg",
+                  "metadata": {},
+                  "subtype": null
+                },
+                {
+                  "description": "",
+                  "image-metadata": {
+                    "width": 1024,
+                    "height": 576,
+                    "mime-type": "image/jpeg",
+                    "file-size": 161021,
+                    "file-name": "bengal-tiger-dhaka-zoo-160423-002.jpg"
+                  },
+                  "type": "image",
+                  "family-id": "09eb0126-201d-4d5e-bca6-a40c5778329e",
+                  "image-attribution": "<div class=\"paragraphs\"><p></p></div>",
+                  "title": "<div class=\"paragraphs\"><p>বৈশাখের দুপুরে গরমের মধ্যে রোববার মিরপুর চিড়িয়াখানায় খাঁচার উন্মুক্ত জায়গায় গাছের ছায়ায় জিরিয়ে নিচ্ছে রয়্যাল বেঙ্গল টাইগারটি। ছবি: আসিফ মাহমুদ অভি</p></div>",
+                  "id": "daffc7fc-6304-4e55-8ace-3b102763e884",
+                  "hyperlink": null,
+                  "image-s3-key": "bdnews24/2023-04/a57512d2-70f8-4eda-b25b-0466cef980f6/bengal_tiger_dhaka_zoo_160423_002.jpg",
+                  "metadata": {},
+                  "subtype": null
+                },
+                {
+                  "description": "",
+                  "image-metadata": {
+                    "width": 1024,
+                    "height": 576,
+                    "mime-type": "image/jpeg",
+                    "file-size": 150617,
+                    "file-name": "bengal-tiger-dhaka-zoo-160423-003.jpg"
+                  },
+                  "type": "image",
+                  "family-id": "d1837ee6-0fe8-4ae4-865c-2cae208ae29f",
+                  "image-attribution": "<div class=\"paragraphs\"><p></p></div>",
+                  "title": "<div class=\"paragraphs\"><p>বৈশাখের দুপুরে গরম বাড়তে থাকলে চৌবাচ্চার পানিতে গলা পর্যন্ত ডুবিয়ে বসে থাকতে দেখা যায় জাতীয় চিড়িয়াখানার রয়্যাল বেঙ্গল টাইগারটিকে। ছবি: আসিফ মাহমুদ অভি</p></div>",
+                  "id": "ab2f6a11-f5c8-4a62-a604-89cff7e0991c",
+                  "hyperlink": null,
+                  "image-s3-key": "bdnews24/2023-04/e5b4f232-238b-45c9-ae3e-90c332829d64/bengal_tiger_dhaka_zoo_160423_003.jpg",
+                  "metadata": {},
+                  "subtype": null
+                },
+                {
+                  "description": "",
+                  "image-metadata": {
+                    "width": 1024,
+                    "height": 576,
+                    "mime-type": "image/jpeg",
+                    "file-size": 176475,
+                    "file-name": "bengal-tiger-dhaka-zoo-160423-006.jpg"
+                  },
+                  "type": "image",
+                  "family-id": "be2bedd5-bb62-4f54-9b19-bf7cea8dc2e7",
+                  "image-attribution": "<div class=\"paragraphs\"><p></p></div>",
+                  "title": "<div class=\"paragraphs\"><p>গরমে অতিষ্ঠ জাতীয় চিড়িয়াখানার রয়্যাল বেঙ্গল টাইগারটিও। তাই খাঁচার চৌবাচ্চায় পড়তে থাকা পানিতে তেষ্টা মেটাতে দেখা যায় এটিকে। ছবি: আসিফ মাহমুদ অভি</p></div>",
+                  "id": "bca7bd72-d699-4a74-bf0d-0c6ec0105a97",
+                  "hyperlink": null,
+                  "image-s3-key": "bdnews24/2023-04/67472372-527a-46dc-b82c-84ee74eac077/bengal_tiger_dhaka_zoo_160423_006.jpg",
+                  "metadata": {},
+                  "subtype": null
+                },
+                {
+                  "description": "",
+                  "image-metadata": {
+                    "width": 1024,
+                    "height": 576,
+                    "mime-type": "image/jpeg",
+                    "file-size": 130551,
+                    "file-name": "bengal-tiger-dhaka-zoo-160423-005.jpg"
+                  },
+                  "type": "image",
+                  "family-id": "706b3d7e-4127-42ea-97f9-4ebb6a50ab6a",
+                  "image-attribution": "<div class=\"paragraphs\"><p></p></div>",
+                  "title": "<div class=\"paragraphs\"><p>গরমের মধ্যে বাংলাদেশ জাতীয় চিড়িয়াখানার খাঁচার চৌবাচ্চার পানিতে পুরো শরীর ডুবিয়ে গলা উঁচিয়ে বসে আছে রয়্যাল বেঙ্গল টাইগারটি। ছবি: আসিফ মাহমুদ অভি</p></div>",
+                  "id": "d42144c9-778a-4c2f-abbf-7adf05b6c660",
+                  "hyperlink": null,
+                  "image-s3-key": "bdnews24/2023-04/d5a15189-7e1f-4259-9680-e846e51bcb85/bengal_tiger_dhaka_zoo_160423_005.jpg",
+                  "metadata": {},
+                  "subtype": null
+                },
+                {
+                  "description": "",
+                  "image-metadata": {
+                    "width": 1024,
+                    "height": 576,
+                    "mime-type": "image/jpeg",
+                    "file-size": 177298,
+                    "file-name": "bengal-tiger-dhaka-zoo-160423-004.jpg"
+                  },
+                  "type": "image",
+                  "family-id": "24da31b1-7d03-4468-8ddc-a434739bbafa",
+                  "image-attribution": "<div class=\"paragraphs\"><p></p></div>",
+                  "title": "<div class=\"paragraphs\"><p>গরমে স্বস্তি পেতে বাংলাদেশ জাতীয় চিড়িয়াখানার খাঁচার চৌবাচ্চার পানিতে ঘুরে বেড়াচ্ছে রয়্যাল বেঙ্গল টাইগারটি। ছবি: আসিফ মাহমুদ অভি</p></div>",
+                  "id": "6f60bd43-7d25-429d-87cf-c6ee04d36fa4",
+                  "hyperlink": null,
+                  "image-s3-key": "bdnews24/2023-04/a01b4056-3151-4da5-90a1-2f710a8806fc/bengal_tiger_dhaka_zoo_160423_004.jpg",
+                  "metadata": {},
+                  "subtype": null
+                },
+                {
+                  "description": "",
+                  "image-metadata": {
+                    "width": 1024,
+                    "height": 576,
+                    "mime-type": "image/jpeg",
+                    "file-size": 193208,
+                    "file-name": "bengal-tiger-dhaka-zoo-160423-007.jpg"
+                  },
+                  "type": "image",
+                  "family-id": "b399d47b-4240-4c6b-8ed0-f1e33de55809",
+                  "image-attribution": "<div class=\"paragraphs\"><p></p></div>",
+                  "title": "<div class=\"paragraphs\"><p>বৈশাখের খরতাপে পুড়ছে দেশ, অতিষ্ঠ প্রাণীকূলও। প্রচণ্ড গরমে স্বস্তি পেতে খাঁচার ভেতরেরর চৌবাচ্চার পানিতে গা ভেজাচ্ছে মিরপুরের জাতীয় চিড়িয়াখানার রয়েল বেঙ্গল টাইগার।&nbsp;ছবি: আসিফ মাহমুদ অভি</p></div>",
+                  "id": "45ce7173-d96b-4798-8f53-fcca6b16dbbf",
+                  "hyperlink": null,
+                  "image-s3-key": "bdnews24/2023-04/fe433c9b-bac3-4711-b087-de18b96d64b5/bengal_tiger_dhaka_zoo_160423_007.jpg",
+                  "metadata": {},
+                  "subtype": null
+                },
+                {
+                  "description": "",
+                  "image-metadata": {
+                    "width": 1024,
+                    "height": 576,
+                    "mime-type": "image/jpeg",
+                    "file-size": 146108,
+                    "file-name": "bengal-tiger-dhaka-zoo-160423-008.jpg"
+                  },
+                  "type": "image",
+                  "family-id": "e374cad0-d8ed-4065-b44e-c695c69c3df6",
+                  "image-attribution": "<div class=\"paragraphs\"><p></p></div>",
+                  "title": "<div class=\"paragraphs\"><p>বৈশাখের খরতাপে পুড়ছে দেশ, অতিষ্ঠ প্রাণীকূলও। প্রচণ্ড গরমে স্বস্তি পেতে খাঁচার ভেতরেরর চৌবাচ্চার পানিতে গা ভেজাচ্ছে মিরপুরের জাতীয় চিড়িয়াখানার রয়েল বেঙ্গল টাইগার।&nbsp;ছবি: আসিফ মাহমুদ অভি</p></div>",
+                  "id": "134d4ddb-d323-4eb1-bcdd-e32d439f85ed",
+                  "hyperlink": null,
+                  "image-s3-key": "bdnews24/2023-04/49e51467-4d1b-4b1c-8104-d146f9f2dc3f/bengal_tiger_dhaka_zoo_160423_008.jpg",
+                  "metadata": {},
+                  "subtype": null
+                }
+              ],
+              "title": "",
+              "id": "ab653cad-a597-4504-a04c-8fbc0c5244d4",
+              "metadata": { "type": "slideshow" },
+              "subtype": "image-gallery"
+            }
+          ],
+          "card-updated-at": 1681643216380,
+          "content-version-id": "d2487be7-f59f-4183-afeb-fc82fd8bd7cb",
+          "card-added-at": 1681642548345,
+          "status": "draft",
+          "id": "ccbcf095-417f-4ae7-bc89-0e7d4a080722",
+          "content-id": "ccbcf095-417f-4ae7-bc89-0e7d4a080722",
+          "version": 15,
+          "metadata": {
+            "social-share": {
+              "shareable": false,
+              "title": "এই গরমে বাঘও কাহিল",
+              "message": null,
+              "image": {
+                "key": "bdnews24/2023-04/4dc45dae-2412-4b28-aba5-4aecb9e9100c/bengal_tiger_dhaka_zoo_160423_008.jpg",
+                "url": null,
+                "attribution": "asif mahmud ove",
+                "caption": null,
+                "metadata": {
+                  "width": 1024,
+                  "height": 576,
+                  "mime-type": "image/jpeg",
+                  "file-size": 146108,
+                  "file-name": "bengal-tiger-dhaka-zoo-160423-008.jpg"
+                }
+              }
+            },
+            "attributes": {}
+          }
+        }
+      ],
+      "url": "https://bangla.bdnews24.com/media_bn/image/rebvrgw8bq",
+      "story-version-id": "cca76d12-ad30-4262-8c5f-2d89e6145c2e",
+      "content-type": "story",
+      "content-updated-at": 1681653080814,
+      "author-id": 1658291,
+      "owner-id": 1658062,
+      "linked-story-ids": [],
+      "access": null,
+      "asana-project-id": null,
+      "first-published-at": 1681643221160,
+      "hero-image-caption": null,
+      "version": 19,
+      "story-template": "gallery",
+      "sequence-no": null,
+      "created-at": 1681643216370,
+      "authors": [
+        {
+          "slug": "biddiniuj-ttoyyenttiphor-ddttkm",
+          "social": {},
+          "name": "বিডিনিউজ টোয়েন্টিফোর ডটকম",
+          "contributor-role": null,
+          "avatar-url": null,
+          "bio": null,
+          "id": 1658291,
+          "avatar-s3-key": null,
+          "twitter-handle": null
+        }
+      ],
+      "watermark": {
+        "social": {
+          "image-s3-key": "bdnews24/2023-03/2788ce2d-35b3-444f-b3cf-73d6577f9cea/20_march_2023_GPI_2_1_1024X65.jpg",
+          "overlay-data": {}
+        }
+      },
+      "metadata": { "card-share": { "shareable": false } },
+      "publish-at": null,
+      "assignee-name": "আসিফ মাহমুদ অভি"
+    }
+  }
+  
